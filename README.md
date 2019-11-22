@@ -47,7 +47,7 @@ Pretrained models can be downloaded from:
 3. Run the following code to reproduce our results. Have fun:)
     
   - To apply TasselNetv2, which is fast and accurate, please run: 
-       `main(1)`. The result will be MAE: 50.16 and RMSE = 82.14
+       `main(1)`. The result will be MAE: 50.16 and RMSE: 82.14
   - To apply a VGG16 pretrained TasselNet, which is more accurate but much slower, please run: 
        `main(2)`. The reult will be MAE: 44.56 and RMSE: 68.32
  
