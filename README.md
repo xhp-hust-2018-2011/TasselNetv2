@@ -50,6 +50,8 @@ Pretrained models can be downloaded from:
        `main(1)`. The result will be MAE: 50.16 and RMSE = 82.14
   - To apply a VGG16 pretrained TasselNet, which is more accurate but much slower, please run: 
        `main(2)`. The reult will be MAE: 44.56 and RMSE: 68.32
-  
+ 
+ ## Additional Tips
+ You can refer to the offical link of [MatConvNet](http://www.vlfeat.org/matconvnet/) for installation. After MatConvNet is installed, the `opt.matconvnet_path` variable in the `paramInit.m` file should be set to point to the corresponding path.
 
 
