@@ -47,7 +47,7 @@ Pretrained models can be downloaded from:
 3. Run the following code to reproduce our results. Have fun:)
     
   - To apply TasselNetv2, which is fast and accurate, please run: 
-       'main(1)'
+       `main(1)`
   - To apply a VGG16 pretrained TasselNet, which is a little more accurate but much slower, please run: 
        main(2)
   
