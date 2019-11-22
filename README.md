@@ -44,10 +44,10 @@ Pretrained models can be downloaded from:
     -->get_stride.m
 ```
 
-3. Run the following code to reproduce our results. The MAE will be SHA: 57.575, SHB: 6.633. Have fun:)
+3. Run the following code to reproduce our results. Have fun:)
     
   - To apply TasselNetv2, which is fast and accurate, please run: 
-       main(1)
+       'main(1)'
   - To apply a VGG16 pretrained TasselNet, which is a little more accurate but much slower, please run: 
        main(2)
   
