@@ -17,6 +17,12 @@ Liang Liu<sup>1</sup>,  [Chunhua Shen](http://cs.adelaide.edu.au/~chhshen/)<sup>
 - [matconvnet-1.0-beta22](http://www.vlfeat.org/matconvnet/) 
 - [vlfeat-0.9.18](http://www.vlfeat.org)
 
-## dataset
+## Data
+You can download the Wheat Spike Counting (WSC) dataset from:
+[Google Drive](https://drive.google.com/file/d/1sJdSLfHsCjsJa0l7kj_ei7KXzvHWCd6Y/view?usp=sharing)
+
+## Model
+Pretrained models can be downloaded from:
+[Google Drive](https://drive.google.com/file/d/1869_ZrfgPtFgV073Z0QmQlqvJajJQxI4/view?usp=sharing)
 
 
